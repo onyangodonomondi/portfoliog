@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 *,
 *::before,
@@ -9,7 +10,7 @@
 }
 
 body {
-  font-family: 'Familjen Grotesk', sans-serif;
+  font-family: 'Lato', sans-serif;
   background: #000;
   color: #fff;
 }
@@ -45,6 +46,7 @@ ul {
 .logo {
   width: 210px;
   height: auto;
+  margin-left: 4rem;
 }
 
 .logo img {
@@ -497,7 +499,7 @@ footer ul li a:hover {
 }
 .nav-links {
 	display: flex;
-	width: 40%;
+	width: 20%;
 	justify-content: space-around;
 	transition: 0.2s;
 	transition: transform 0.5s ease-in;
