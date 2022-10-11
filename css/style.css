@@ -147,6 +147,11 @@ section {
   background-image: url('../img/section-f.jpg');
 }
 
+.section-f {
+  background-image: url('../img/section-g.jpg');
+}
+
+
 .btn {
   position: relative;
   display: inline-block;
